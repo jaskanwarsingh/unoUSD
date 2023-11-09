@@ -1,7 +1,7 @@
-# unoUSD Stablecoin Protocol
+# unoUSD Claim Rebate Bond
 
 ## Overview
-unoUSD is a novel stablecoin protocol designed for the uno re insurance protocol. Drawing inspiration from FRAX Finance's pioneering model, it aims to offer liquidity providers a safety mechanism through a stablecoin backed by UNO tokens and future premium payments.
+unoUSD is a novel claim rebate bond token designed for the uno re insurance protocol. Drawing inspiration from FRAX Finance's pioneering model, it aims to offer liquidity providers a safety mechanism through a stablecoin backed by UNO tokens and future premium payments.
 
 ## Rationale
 Liquidity providers in the uno re insurance protocol are exposed to risks from insurance claims, potentially leading to financial losses. unoUSD introduces a safety net with the form of rebates in unoUSD, akin to FRAX's hybrid collateral approach, providing a balanced and stable environment for stakeholders.
